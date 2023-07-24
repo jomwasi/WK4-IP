@@ -1,7 +1,7 @@
 # OCHASTRATING YOLO APP WITH KUBERNATES
-DESCRIPTION
+# DESCRIPTION
 This project uses Kubernetes to orchestrate the YOLO app. The YOLO app consists of both client and backend component. 
- SET UP
+# SET UP
  - To run and test kubernates - download minikube and kubectl on local machine
  - clone YOLO app repository to local machine by git clone command
  - Start minikube by entering command minikube start
